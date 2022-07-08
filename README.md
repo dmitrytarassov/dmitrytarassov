@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dmitrytarassov
-- 🤓 I’m Head of RnD in 3commas / DeCommas CTO
+- 🤓 I’m Head of Blockchain team sumsub.com
 - 🤖 I’m currently working on https://decommas.io
-- 📫 d.tarasov@3commas.io | tg: http://t.me/tarasov_d_a
+- 📫 dm.tarasov.prog@gmail.com | tg: http://t.me/tarasov_d_a
 
 <!---
 dmitrytarassov/dmitrytarassov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
